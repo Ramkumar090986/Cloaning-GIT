@@ -28,7 +28,9 @@ public class Day7 {
 	    System.out.println("Add all:"+li);
 		lj.removeAll(li);
 		System.out.println("Unique values:"+lj);
+		System.out.println("Work done by Person2");
 		System.out.println("Person 3 code added");
+
 }
 }
 	
